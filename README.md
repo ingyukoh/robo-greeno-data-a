@@ -14,7 +14,8 @@ class hardware.
 
 ## Team
 
-- **Mentor:** Ingyu Koh ([@ingyukoh](https://github.com/ingyukoh))
+- **Program director:** Shmuel Fine, [KamaTech](https://kamatech.org.il)
+- **Mentor (Data A):** Ingyu Koh ([@ingyukoh](https://github.com/ingyukoh))
 - **Participants:** 4 members (assigned at kickoff, Wed May 6 2026)
 - **Standing meetings:** Mon / Wed / Thu, 10:30 IDT
 
