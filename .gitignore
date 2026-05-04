@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# RL training artifacts
+runs/
+logs/
+checkpoints/
+*.pth
+*.zip
+wandb/
+tensorboard/
+
+# MuJoCo / sim outputs
+*.mp4
+*.gif
+videos/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Secrets
+.env
+*.key
+*.pem
+PUSH-INSTRUCTIONS.txt
