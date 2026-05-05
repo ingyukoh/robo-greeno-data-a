@@ -13,7 +13,7 @@ curriculum — TAs in the upcoming bootcamp will teach the same flow.
 
 ### One-time setup (per participant)
 
-1. Open https://github.com/ingyukoh/robo-greeno-data-a in your
+1. Open https://github.com/KamaTechOrg/robo-greeno-data-a in your
    browser and click **Fork** (top right). This creates a copy of
    the repo under your own GitHub account.
 2. Clone your fork to your laptop:
@@ -26,7 +26,7 @@ curriculum — TAs in the upcoming bootcamp will teach the same flow.
 3. Add the upstream remote so you can pull mentor-reviewed changes:
 
    ```
-   git remote add upstream https://github.com/ingyukoh/robo-greeno-data-a.git
+   git remote add upstream https://github.com/KamaTechOrg/robo-greeno-data-a.git
    ```
 
 ### Each piece of work
@@ -54,8 +54,8 @@ curriculum — TAs in the upcoming bootcamp will teach the same flow.
    ```
 
 5. Open a pull request from your fork's branch to
-   `ingyukoh/robo-greeno-data-a:main`. GitHub will offer a "Compare
-   & pull request" button after the push.
+   `KamaTechOrg/robo-greeno-data-a:main`. GitHub will offer a
+   "Compare & pull request" button after the push.
 6. Address review comments by pushing more commits to the same
    branch — the PR updates automatically.
 7. Once approved, the mentor merges. You can then delete the branch.
